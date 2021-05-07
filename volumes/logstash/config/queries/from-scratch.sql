@@ -1,1 +1,1 @@
-SELECT * FROM stadisticSales.projecdata
+SELECT * FROM stadisticSales.projectdata
